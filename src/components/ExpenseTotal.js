@@ -1,1 +1,4 @@
-
+/*
+agrega UseContext y AppContext
+Toma los gatos del estado
+*/
